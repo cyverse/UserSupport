@@ -118,7 +118,7 @@ ___
 
  * **To create a public link to the file** (not for folders) with someone who doesn’t have an account:
 
- 	1. Click **ADD ICON** in the row for the file.
+ 	1. Click ![infoicon](docs/images/InfoIcon.jpg) in the row for the file.
  	2. Copy the link, and click **Done**.
  	3. Send the link.
 
