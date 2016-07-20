@@ -1,5 +1,3 @@
-DE FAQs
-
 # To Do (all K)
 
 * Add glossary of terms of commonly used terms in the CV technology (separate page):
