@@ -105,17 +105,17 @@ ___
 ## How do I share data files and folders in the Discovery Environment? 
 <a name="dataShare"></a>
 
- * **To share a file or folder with a CyVerse user:** 
+**To share a file or folder with a CyVerse user:** 
 
- 	1. Click the checkbox for the file or folder to share.
- 	2. Click ![shareicon](docs/images/ShareViaDEicon.jpg) in the row for the item.
- 	3. Begin entering the name in the search field and then select the user.
+ 1. Click the checkbox for the file or folder to share.
+ 2. Click ![shareicon](docs/images/ShareViaDEicon.jpg) in the row for the item.
+ 3. Begin entering the name in the search field and then select the user.
 
- * **To create a public link to a file** (not for folders) with someone who doesn’t have an account:
+**To create a public link to a file** (not for folders) with someone who doesn’t have an account:
 
- 	1. Click ![linkicon](docs/images/shareviapubliclinkicon.jpg) in the row for the file.
- 	2. Copy the link, and click **Done**.
- 	3. Send the link.
+ 1. Click ![linkicon](docs/images/shareviapubliclinkicon.jpg) in the row for the file.
+ 2. Copy the link, and click **Done**.
+ 3. Send the link.
 
 Learn more at [Sharing Files and Folders](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Sharing+Files+and+Folders).
 
@@ -124,7 +124,7 @@ Learn more at [Sharing Files and Folders](https://pods.iplantcollaborative.org/w
 
 It depends on what you want to allow the collaborator to do with the file or folder. Options are read, write (ability to edit the file or folder), and own (in addition to edit, can also delete and move; use this permission with caution). Learn more [here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Changing+and+Viewing+Data+Permission+Levels+in+the+DE).
 
-## Why can’t I rename or delete files in a folder that have been shared with me? 
+## Why can’t I rename or delete files in a folder that has been shared with me? 
 <a name="dataRenameDeleteItem"></a>
 
 To rename a file or folder, you must have “write” permission, and to delete a file you must have “own” permission. To check the permission you have, click the checkbox for the item and look at the Permissions shown in the Details panel on the right. Contact the person who shared the file or folder with you if they did not give you the necessary level of permission. Learn more at [Changing and Viewing Data Permission Levels in the DE](https://wiki.cyverse.org/wiki/display/DEmanual/Changing+and+Viewing+Data+Permission+Levels+in+the+DE).
