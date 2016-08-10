@@ -1,11 +1,4 @@
-# To Do (all K)
-
-* Add glossary of terms of commonly used terms in the CV technology (separate page):
- * jobs/analyses
- * tools/apps
- * more...
-* Convert to markdown format.
-* Put it in the repo [https://github.com/cyverse/UserSupport|https://github.com/cyverse/UserSupport] . Call it DE FAQs.
+# DE FAQs
 
 # Quick Links
 
@@ -29,7 +22,7 @@
 * [Can I have spaces in file and folder names?] (#dataSpaces)
 * [Can I view my files in a genome browser?] (#dataViewGenome)
 
-### [Apps Questions](#apps)
+### [Apps questions](#apps)
 
 * [How do I share an app in the Discovery Environment?] (#appsDataShareApp)
 * [Why can’t I find a Discovery Environment app?] (#appsFindApp)
@@ -59,9 +52,12 @@ The steps to get help depend on whether you’re a novice or an expert with the 
 
 3. **Talk with someone at your institution** who is more experienced with the tool.
 
-4. **Try to use the app in the Discovery Environment.** Click **ADD INFO ICON HERE** next to the app name to view the app manual and its sample test input files and expected outputs.
+4. **Try to use the app in the Discovery Environment.** Click ![infoicon](docs/images/InfoIcon.jpg) next to the app name to view the app manual and its sample test input files and expected outputs.
 
 5. **Search [Ask](http://ask.iplantcollaborative.org)** for the answer. If it is not there, post a question. 
+
+**Perhaps add another point here that they can search for other apps that use the same tool and read the descriptions, try the app out?**
+
  
 ### If you are experienced with the tool or workflow:
 
@@ -88,16 +84,16 @@ Because the app requires a _folder_ as input, not a _file_, the files don’t sh
 You can easily relaunch the same analysis with different settings:
 
  1. In the Analyses window, click the app name in the App column for the analysis to rerun. 
-  This opens up an app window for that app and that’s already configured with the inputs and settings you used for the previous analysis run. 
+  This opens up an app window for that app, which is already configured with the inputs and settings you used for the previous analysis run. 
  2. Change settings or inputs as needed.
  3. Click **Launch Analysis** to launch the new analysis.
 
-Learn more [here](https://pods.iplantcollaborative.org/wiki/pages/viewpage.action?pageId=11446455#Analyses%20Menu:%20View%20Outputs,%20Parameters,%20and%20Info;%20Relaunch,%20Cancel,%20and%20Delete-Relaunch).
+[Learn more here.](https://pods.iplantcollaborative.org/wiki/pages/viewpage.action?pageId=11446455#Analyses%20Menu:%20View%20Outputs,%20Parameters,%20and%20Info;%20Relaunch,%20Cancel,%20and%20Delete-Relaunch)
 
 ## How do I run the same analysis on a number of files most efficiently? 
 <a name="analysesHtFileList"></a>
 
-You can create a file that contains a list of of up to 16 files to use as input for high-throughput and batch file execution. Such a file is called an HT Analysis Path List file. Learn more [here](https://pods.iplantcollaborative.org/wiki/display/TUT/Parallel+execution%2C+DE+%28Discovery+Environment%29+style), and if you still have questions, read [here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Creating+New+Files+and+Folders#CreatingNewFilesandFolders-HTanalysispathlist).
+You can create a file that contains a list of up to 16 files to use as input for high-throughput and batch file execution. Such a file is called an HT Analysis Path List file. Learn more [here](https://pods.iplantcollaborative.org/wiki/display/TUT/Parallel+execution%2C+DE+%28Discovery+Environment%29+style), and if you still have questions, read [here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Creating+New+Files+and+Folders#CreatingNewFilesandFolders-HTanalysispathlist).
 
 ## I have a series of files that need to be analyzed by the same app, but the output files all have the same name. How do I distinguish them so I can use them in a workflow? 
 <a name="analysesRenameOutputFiles"></a>
@@ -110,13 +106,13 @@ ___
 ## How do I share data files and folders in the Discovery Environment? 
 <a name="dataShare"></a>
 
- * **To share the file or folder with a CyVerse user:** 
+ * **To share a file or folder with a CyVerse user:** 
 
  	1. Click the checkbox for the item.
  	2. Click **ADD ICON**.
  	3. Begin entering the name in the search field and then select the user.
 
- * **To create a public link to the file** (not for folders) with someone who doesn’t have an account:
+ * **To create a public link to a file** (not for folders) with someone who doesn’t have an account:
 
  	1. Click ![infoicon](docs/images/InfoIcon.jpg) in the row for the file.
  	2. Copy the link, and click **Done**.
@@ -129,7 +125,7 @@ Learn more at [Sharing Files and Folders](https://pods.iplantcollaborative.org/w
 
 It depends on what you want to allow the collaborator to do with the file or folder. Options are read, write (ability to edit the file or folder), and own (in addition to edit, can also delete and move; use this permission with caution). Learn more [here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Changing+and+Viewing+Data+Permission+Levels+in+the+DE).
 
-## Why can’t I rename or delete files in a folder that has been shared with me? 
+## Why can’t I rename or delete files in a folder that have been shared with me? 
 <a name="dataRenameDeleteItem"></a>
 
 To rename a file or folder, you must have “write” permission, and to delete a file you must have “own” permission. To check the permission you have, click the checkbox for the item and look at the Permissions shown in the Details panel on the right. Contact the person who shared the file or folder with you if they did not give you the necessary level of permission. Learn more at [Changing and Viewing Data Permission Levels in the DE](https://wiki.cyverse.org/wiki/display/DEmanual/Changing+and+Viewing+Data+Permission+Levels+in+the+DE).
@@ -147,12 +143,12 @@ If the folder has hundreds of files, it can take several hours for the deletion 
 ## Can I have spaces in file and folder names? 
 <a name="dataSpaces"></a>
 
-Spaces in file and folder names can cause analyses to fail. Do not use spaces or special characters in file or folder names. Learn more [here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Using+Special+Characters+in+the+DE).
+Do not use spaces or special characters in file or folder names as they can cause analyses to fail. [Learn more here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Using+Special+Characters+in+the+DE).
 
 ## Can I view my files in a genome browser? 
 <a name="dataViewGenome"></a>
 
-You can view bam, vcf, and gff genome files you own in the genome browsers at Ensembl, UCSC, IGV, GBrowse, and jbrowse (learn more [here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Viewing+Genome+Files+in+a+Genome+Browser). You can view Fasta genome files in CoGe (learn more [here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Viewing+Genome+Files+in+CoGe).
+You can view bam, vcf, and gff genome files you own in the genome browsers at Ensembl, UCSC, IGV, GBrowse, and jbrowse, and view Fasta genome files in CoGe. Learn more about viewing genome files in [a genome browser](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Viewing+Genome+Files+in+a+Genome+Browser) or in  [CoGe](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Viewing+Genome+Files+in+CoGe).
 ___
 # APPS 
 <a name="apps"></a>
@@ -166,11 +162,8 @@ You can share an app or workflow with the general public or just with specific u
 <a name="appsFindApp"></a>
 
 There are two common reasons why an app is not “visible” or doesn’t come up in search in the Apps list:
-
-1. Search for the app in the Apps list.
-2. If the app doesn’t come up in search:
  
-  * The app may be an HPC (high-performance computing) app. [Follow these steps](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Using+the+Apps+Window+and+Submitting+an+Analysis#UsingtheAppsWindowandSubmittinganAnalysis-HpcFind) to view the list of HPC apps.
- * The app may not yet be public or the app owner may not have shared it with you yet. Check with the owner to see if it was indeed shared and public.
+  * The app may be an HPC (high-performance computing) app, which is only displayed after you have logged in to Agave, where the HPC apps are stored. To do so, click the **HPC** tab in the Apps window and enter your CyVerse username and password.
+  * The app may not yet be public, or the app owner may not have shared the unpublished app with you. Check with the owner to see if it is indeed shared with you or public.
     
-2. If you still can’t find it, it’s possible that the app may have been archived or removed. Search for a similar app or learn more about archived apps [here](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Using+the+Apps+Window+and+Submitting+an+Analysis#UsingtheAppsWindowandSubmittinganAnalysis-ArchivedApp).
+If you still can’t find the app, it’s possible it has been deprecated. If an app is no longer returned in a search query, [search](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Searching+for+an+App+or+Workflow#SearchingforanApporWorkflow) for an app with a similar name or one that uses the same tool, topic, or operation. If you are the app integrator and need the app returned to the catalog, contact Support for assistance. [Learn more about deprecated apps](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Using+the+Apps+Window+and+Submitting+an+Analysis#UsingtheAppsWindowandSubmittinganAnalysis-ArchivedApp).
