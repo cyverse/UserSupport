@@ -58,7 +58,6 @@ The steps to get help depend on whether you’re a novice or an expert with the 
 
 **Perhaps add another point here that they can search for other apps that use the same tool and read the descriptions, try the app out?**
 
- 
 ### If you are experienced with the tool or workflow:
 
 If you are experienced with the tool or workflow and need advice for how to work with very large-scale data or a complex workflow, you may request community support or [Extended Collaborative Support](http://www.cyverse.org/collaborate).
@@ -108,13 +107,13 @@ ___
 
  * **To share a file or folder with a CyVerse user:** 
 
- 	1. Click the checkbox for the item.
- 	2. Click **ADD ICON**.
+ 	1. Click the checkbox for the file or folder to share.
+ 	2. Click ![shareicon](docs/images/ShareViaDEicon.jpg) in the row for the item.
  	3. Begin entering the name in the search field and then select the user.
 
  * **To create a public link to a file** (not for folders) with someone who doesn’t have an account:
 
- 	1. Click ![infoicon](docs/images/InfoIcon.jpg) in the row for the file.
+ 	1. Click ![linkicon](docs/images/shareviapubliclinkicon.jpg) in the row for the file.
  	2. Copy the link, and click **Done**.
  	3. Send the link.
 
