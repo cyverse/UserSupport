@@ -39,9 +39,15 @@ Definable set of three properties or characteristics (also called a _triple_) of
 <a name="B"></a>
 ## B
 
+### bulk download
+
+Ability to download multiple files. Use Cyberduck for Mac and Windows users, or iDrop Desktop or iCommands for LINUX users. You also may still upload or import files within the DE using simple upload or import from URL.
+
+[back to top](#top)
+
 ### bulk upload
 
-Ability to download multiple files and folders. 
+Ability to download multiple files and folders. Use the Cyberduck application, which requires installation and configuration, for Mac and Windows users, or iCommands or iDrop Desktop for LINUX users. You may still download files and folders within the DE using simple download, or upload or import files within the DE using simple upload or import from URL.
 
 [back to top](#top)
 
@@ -84,6 +90,11 @@ Ready snapshot of a configured software application.
 Collection of commands for Unix and Windows that are used in the iRODS system to interact with the CyVerse Data Store as an alternative to the Discovery Environment. Best choice for large files (2-100 GB each) and for bulk file transfers (many small files).
 
 [back to top](#top)
+
+## J
+
+### job
+In the CyVerse universe, referred to as an _analysis_. Detailed examination of data performed in the Discovery Environment by selecting one or more apps to perform a desired task for the purpose of discussion or interpretation.
 
 <a name="M"></a>
 ## M 
