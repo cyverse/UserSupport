@@ -1,3 +1,8 @@
+---
+layout: page
+title: Discovery Environment (DE) FAQs
+---
+
 # DE FAQs
 
 # Quick Links
