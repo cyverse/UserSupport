@@ -19,18 +19,18 @@ title: Discovery Environment (DE) FAQs
 
 ### [Data questions](#data)
 
-* [How do I share data files and folders in the Discovery Environment?] (#dataShare)
+* [How do I share data files and folders in the Discovery Environment?](#dataShare)
 * [When sharing a file or folder, what permission should I give to my collaborator?](#dataPermissions)
 * [Why can’t I rename or delete files in a folder that has been shared with me?](#dataRenameDeleteItem)
 * [How can I manage shared files and folders for my lab group or project?](#dataSharedProject)
-* [Why doesn’t anything happen when I move a folder I own to the trash?] (#dataTrashFolder)
-* [Can I have spaces in file and folder names?] (#dataSpaces)
-* [Can I view my files in a genome browser?] (#dataViewGenome)
+* [Why doesn’t anything happen when I move a folder I own to the trash?](#dataTrashFolder)
+* [Can I have spaces in file and folder names?](#dataSpaces)
+* [Can I view my files in a genome browser?](#dataViewGenome)
 
 ### [Apps questions](#apps)
 
-* [How do I share an app in the Discovery Environment?] (#appsDataShareApp)
-* [Why can’t I find a Discovery Environment app?] (#appsFindApp)
+* [How do I share an app in the Discovery Environment?](#appsDataShareApp)
+* [Why can’t I find a Discovery Environment app?](#appsFindApp)
 
 # ANALYSES
 <a name="analyses"></a>
