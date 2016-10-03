@@ -3,7 +3,7 @@ layout: page
 title: Discovery Environment (DE) FAQs
 ---
 
-# DE FAQs
+# Discovery Environment (DE) FAQs
 
 # Quick Links
 
