@@ -7,7 +7,7 @@ title: Discovery Environment (DE) FAQs
 
 # Quick Links
 
--[Analyses questions](#analyses)
+- [Analyses questions](#analyses)
 
  - [Why has my job failed or been running forever?](#analysesJobFailed)
  - [How do I get help with a tool (app) or workflow?](#analysesHelpToolWorkflow)
@@ -18,7 +18,7 @@ title: Discovery Environment (DE) FAQs
  - [How do I run the same analysis on a number of files most efficiently?](#analysesHtFileList)
  - [I have a series of files that need to be analyzed by the same app, but the output files all have the same name. How do I distinguish    them so I can use them in a workflow?](#analysesRenameOutputFiles)
 
--[Data questions](#data)
+- [Data questions](#data)
 
  - [How do I share data files and folders in the Discovery Environment?](#dataShare)
  - [When sharing a file or folder, what permission should I give to my collaborator?](#dataPermissions)
@@ -28,7 +28,7 @@ title: Discovery Environment (DE) FAQs
  - [Can I have spaces in file and folder names?](#dataSpaces)
  - [Can I view my files in a genome browser?](#dataViewGenome)
 
--[Apps questions](#apps)
+- [Apps questions](#apps)
 
  - [How do I share an app in the Discovery Environment?](#appsDataShareApp)
  - [Why can’t I find a Discovery Environment app?](#appsFindApp)
