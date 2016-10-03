@@ -7,31 +7,31 @@ title: Discovery Environment (DE) FAQs
 
 # Quick Links
 
-### [Analyses questions](#analyses)
+-[Analyses questions](#analyses)
 
- * [Why has my job failed or been running forever?](#analysesJobFailed)
- * [How do I get help with a tool (app) or workflow?](#analysesHelpToolWorkflow)
- * [Why is my analysis sitting in the Submitted state for so long?](#analysesSubmittedLongTime)
- * [Is there a limit to how many analyses (jobs) I can run at the same time in the Discovery Environment?](#analysesJobLimit)
- * [I’m trying to run an analysis, but when I enter an input I can’t see my files. Why? I know they are there.](#analysesFilesHidden)
- * [How do I rerun a job I previously ran in the DE, but change some parameters or use a different input?](#analysesRelaunch)
- * [How do I run the same analysis on a number of files most efficiently?](#analysesHtFileList)
- * [I have a series of files that need to be analyzed by the same app, but the output files all have the same name. How do I distinguish    them so I can use them in a workflow?](#analysesRenameOutputFiles)
+ - [Why has my job failed or been running forever?](#analysesJobFailed)
+ - [How do I get help with a tool (app) or workflow?](#analysesHelpToolWorkflow)
+ - [Why is my analysis sitting in the Submitted state for so long?](#analysesSubmittedLongTime)
+ - [Is there a limit to how many analyses (jobs) I can run at the same time in the Discovery Environment?](#analysesJobLimit)
+ - [I’m trying to run an analysis, but when I enter an input I can’t see my files. Why? I know they are there.](#analysesFilesHidden)
+ - [How do I rerun a job I previously ran in the DE, but change some parameters or use a different input?](#analysesRelaunch)
+ - [How do I run the same analysis on a number of files most efficiently?](#analysesHtFileList)
+ - [I have a series of files that need to be analyzed by the same app, but the output files all have the same name. How do I distinguish    them so I can use them in a workflow?](#analysesRenameOutputFiles)
 
-### [Data questions](#data)
+-[Data questions](#data)
 
- * [How do I share data files and folders in the Discovery Environment?](#dataShare)
- * [When sharing a file or folder, what permission should I give to my collaborator?](#dataPermissions)
- * [Why can’t I rename or delete files in a folder that has been shared with me?](#dataRenameDeleteItem)
- * [How can I manage shared files and folders for my lab group or project?](#dataSharedProject)
- * [Why doesn’t anything happen when I move a folder I own to the trash?](#dataTrashFolder)
- * [Can I have spaces in file and folder names?](#dataSpaces)
- * [Can I view my files in a genome browser?](#dataViewGenome)
+ - [How do I share data files and folders in the Discovery Environment?](#dataShare)
+ - [When sharing a file or folder, what permission should I give to my collaborator?](#dataPermissions)
+ - [Why can’t I rename or delete files in a folder that has been shared with me?](#dataRenameDeleteItem)
+ - [How can I manage shared files and folders for my lab group or project?](#dataSharedProject)
+ - [Why doesn’t anything happen when I move a folder I own to the trash?](#dataTrashFolder)
+ - [Can I have spaces in file and folder names?](#dataSpaces)
+ - [Can I view my files in a genome browser?](#dataViewGenome)
 
-### [Apps questions](#apps)
+-[Apps questions](#apps)
 
- * [How do I share an app in the Discovery Environment?](#appsDataShareApp)
- * [Why can’t I find a Discovery Environment app?](#appsFindApp)
+ - [How do I share an app in the Discovery Environment?](#appsDataShareApp)
+ - [Why can’t I find a Discovery Environment app?](#appsFindApp)
 
 # ANALYSES
 <a name="analyses"></a>
