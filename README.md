@@ -1,8 +1,3 @@
----
-layout: page
-title: CYVERSE FAQs
----
-
 # Discovery Environment (DE) FAQs
 
 ### [Analyses questions](#analyses)
@@ -37,7 +32,7 @@ title: CYVERSE FAQs
 ## Why has my job failed or been running forever?
 <a name="analysesJobFailed"></a>
 
-Use the [troubleshooting guide](https://wiki.cyverse.org/wiki/display/DEmanual/Troubleshooting+and+Getting+Help+with+the+Discovery+Environment) on the CyVerse wiki. It will help you determine what went wrong and collect information for CyVerse staff in case you cannot resolve the problem yourself.
+[Troubleshooting a Failed Analysis](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Troubleshooting+a+Failed+Analysis) on the CyVerse wiki will help you determine what went wrong and collect information for CyVerse staff in case you cannot resolve the problem yourself.
 
 ## How do I get help with a tool (app) or workflow?
 <a name="analysesHelpToolWorkflow"></a>
