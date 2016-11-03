@@ -1,3 +1,8 @@
+---
+layout: page
+title: CYVERSE FAQs
+---
+
 # Discovery Environment (DE) FAQs
 
 ### [Analyses questions](#analyses)
