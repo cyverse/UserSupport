@@ -100,7 +100,9 @@ You can create a file that contains a list of up to 16 files to use as input for
 <a name="analysesRenameOutputFiles"></a>
 
 You can avoid confusion by finding the output folder in your Data list and [renaming](https://wiki.cyverse.org/wiki/display/DEmanual/Renaming+a+Data+File+or+Folder) each output file with a unique name. After renaming the output files, you can then use them together in a step of the analysis workflow.
+
 ___
+
 # DATA (FILE & FOLDERS)
 <a name="data"></a>
 
@@ -150,7 +152,9 @@ Do not use spaces or special characters in file or folder names as they can caus
 <a name="dataViewGenome"></a>
 
 You can view bam, vcf, and gff genome files you own in the genome browsers at Ensembl, UCSC, IGV, GBrowse, and jbrowse, and view Fasta genome files in CoGe. Learn more about viewing genome files in [a genome browser](https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+Genome+Files+in+a+Genome+Browser) or in  [CoGe](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Viewing+Genome+Files+in+CoGe).
+
 ___
+
 # APPS
 <a name="apps"></a>
 
