@@ -136,7 +136,7 @@ To rename a file or folder, you must have “write” permission, and to delete 
 ## How can I manage shared files and folders for my lab group or project?
 <a name="dataSharedProject"></a>
 
-See [Setting Up a Shared Directory for a Lab or Project](https://wiki.cyverse.org/wiki/display/DC/Setting+up+a+shared+directory+for+a+lab+or+project). **CONTENT NEEDED (RAMONA)**
+See [Setting Up a Shared Directory for a Lab or Project](https://wiki.cyverse.org/wiki/display/DC/Setting+up+a+shared+directory+for+a+lab+or+project).
 
 ## Why doesn’t anything happen when I move a folder I own to the trash?
 <a name="dataTrashFolder"></a>
