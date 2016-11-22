@@ -103,7 +103,7 @@ You can avoid confusion by finding the output folder in your Data list and [rena
 
 ___
 
-# DATA (FILE & FOLDERS)
+# DATA (FILES & FOLDERS)
 <a name="data"></a>
 
 ## How do I share data files and folders in the Discovery Environment?
